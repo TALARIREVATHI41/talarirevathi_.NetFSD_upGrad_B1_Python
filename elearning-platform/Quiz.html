@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quiz</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h2>Quiz</h2>
+</header>
+
+<nav>
+<a href="Dashboard.html">Dashboard</a> |
+<a href="Courses.html">Courses</a> |
+<a href="Quiz.html">Quiz</a> |
+<a href="Profile.html">Profile</a>
+</nav>
+
+<nav class="breadcrumb">
+<a href="Dashboard.html">Home</a>
+<span>→</span>
+<span class="active">Quiz</span>
+</nav>
+
+<main>
+
+<div id="quizContainer"></div>
+
+<p id="errorMsg" style="color:red; font-weight:bold;"></p>
+
+<button onclick="submitQuiz()">Submit Quiz</button>
+
+<div id="result"></div>
+
+</main>
+
+<script src="js/app.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/quiz.js"></script>
+
+</body>
+</html>

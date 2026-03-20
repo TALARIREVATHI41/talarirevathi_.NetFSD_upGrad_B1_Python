@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dashboard</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+
+<header>
+<h2>E-Learning Platform</h2>
+</header>
+
+<nav>
+<a href="Dashboard.html">Dashboard</a>
+<a href="Courses.html">Courses</a>
+<a href="Quiz.html">Quiz</a>
+<a href="Profile.html">Profile</a>
+</nav>
+
+<main class="container">
+
+<nav class="breadcrumb">
+<a href="Dashboard.html">Home</a>
+<span>→</span>
+<span class="active">Dashboard</span>
+</nav>
+
+<h3>Total Progress</h3>
+<progress id="totalProgress" max="100"></progress>
+
+<section class="grid-dashboard">
+
+<div class="card">
+<h4>JavaScript</h4>
+<progress id="progress-1" value="0" max="100"></progress>
+</div>
+
+<div class="card">
+<h4>HTML</h4>
+<progress id="progress-2" value="0" max="100"></progress>
+</div>
+
+<div class="card">
+<h4>CSS</h4>
+<progress id="progress-3" value="0" max="100"></progress>
+</div>
+
+<div class="card">
+<h4>React</h4>
+<progress id="progress-4" value="0" max="100"></progress>
+</div>
+
+<div class="card">
+<h4>Bootstrap</h4>
+<progress id="progress-5" value="0" max="100"></progress>
+</div>
+
+<div class="card">
+<h4>Java</h4>
+<progress id="progress-6" value="0" max="100"></progress>
+</div>
+
+</section>
+
+
+</main>
+
+<footer class="text-center p-3">
+© 2026 E-Learning Platform
+</footer>
+<script src="js/dashboard.js"></script>
+
+</body>
+</html>
