@@ -1,0 +1,12 @@
+public class User
+{
+    public int UserId { get; set; }
+    public required string FullName { get; set; }
+    public required string Email { get; set; }
+    public required string PasswordHash { get; set; }
+
+    public DateTime CreatedAt { get; set; }
+
+    public ICollection<Course> Courses { get; set; } = new List<Course>();
+    public ICollection<Result> Results { get; set; } = new List<Result>();
+}

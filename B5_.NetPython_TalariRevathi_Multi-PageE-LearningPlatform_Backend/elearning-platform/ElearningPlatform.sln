@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElearningPlatform", "ElearningPlatform\ElearningPlatform.csproj", "{C813A303-899F-4160-AF7F-6B4359E6FBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElearningPlatform.Tests", "ElearningPlatform.Tests\ElearningPlatform.Tests.csproj", "{0A691B31-67CC-4F61-990E-E6E1FE9AC348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C813A303-899F-4160-AF7F-6B4359E6FBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C813A303-899F-4160-AF7F-6B4359E6FBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C813A303-899F-4160-AF7F-6B4359E6FBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C813A303-899F-4160-AF7F-6B4359E6FBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A691B31-67CC-4F61-990E-E6E1FE9AC348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A691B31-67CC-4F61-990E-E6E1FE9AC348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A691B31-67CC-4F61-990E-E6E1FE9AC348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A691B31-67CC-4F61-990E-E6E1FE9AC348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
