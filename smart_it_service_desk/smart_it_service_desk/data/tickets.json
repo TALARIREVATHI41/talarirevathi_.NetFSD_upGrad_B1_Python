@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1001,
+        "employee": "Revathi",
+        "department": "IT",
+        "issue": "Server Down",
+        "priority": "P1",
+        "status": "Open",
+        "created": "2026-04-20 09:00:00"
+    },
+    {
+        "id": 1003,
+        "employee": "Sneha",
+        "department": "HR",
+        "issue": "Laptop Slow",
+        "priority": "P3",
+        "status": "Closed",
+        "created": "2026-04-20 22:33:29.101818"
+    },
+    {
+        "id": 1004,
+        "employee": "Rahul",
+        "department": "Admin",
+        "issue": "Password Reset",
+        "priority": "P4",
+        "status": "Open",
+        "created": "2026-04-28 22:33:53.875640"
+    },
+    {
+        "id": 1005,
+        "employee": "Anil",
+        "department": "Support",
+        "issue": "Printer Failure",
+        "priority": "P4",
+        "status": "Open",
+        "created": "2026-04-28 22:34:39.520812"
+    },
+    {
+        "id": 1006,
+        "employee": "Kiran",
+        "department": "Support",
+        "issue": "Printer Failure",
+        "priority": "P4",
+        "status": "Open",
+        "created": "2026-04-28 22:35:05.511076"
+    },
+    {
+        "id": 1007,
+        "employee": "Meena",
+        "department": "Support",
+        "issue": "Printer Failure",
+        "priority": "P4",
+        "status": "Open",
+        "created": "2026-04-28 22:35:29.167458"
+    },
+    {
+        "id": 1008,
+        "employee": "Ravi",
+        "department": "Support",
+        "issue": "Printer Failure",
+        "priority": "P4",
+        "status": "Open",
+        "created": "2026-04-28 22:35:54.263500"
+    },
+    {
+        "id": 1001,
+        "employee": "Deepa",
+        "department": "Support",
+        "issue": "Printer Failure",
+        "priority": "P4",
+        "status": "Open",
+        "created": "2026-04-28 23:12:53.593097"
+    },
+    {
+        "id": 1001,
+        "employee": "Dharani",
+        "department": "IT",
+        "issue": "Server Down",
+        "priority": "P1",
+        "status": "Open",
+        "created": "2026-04-29 09:34:36.448769"
+    },
+    {
+        "id": 1002,
+        "employee": "Poojitha",
+        "department": "IT",
+        "issue": "Server Down",
+        "priority": "P1",
+        "status": "Open",
+        "created": "2026-04-30 10:37:07.015292"
+    }
+]

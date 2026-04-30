@@ -1,0 +1,11 @@
+id,employee,department,issue,priority,status
+1001,Revathi,IT,Server Down,P1,Open
+1003,Sneha,HR,Laptop Slow,P3,Closed
+1004,Rahul,Admin,Password Reset,P4,Open
+1005,Anil,Support,Printer Failure,P4,Open
+1006,Kiran,Support,Printer Failure,P4,Open
+1007,Meena,Support,Printer Failure,P4,Open
+1008,Ravi,Support,Printer Failure,P4,Open
+1001,Deepa,Support,Printer Failure,P4,Open
+1001,Dharani,IT,Server Down,P1,Open
+1002,Poojitha,IT,Server Down,P1,Open
